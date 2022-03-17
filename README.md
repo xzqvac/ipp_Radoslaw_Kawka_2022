@@ -22,7 +22,7 @@ Frontend:
 - JavaFX, CSS
 
 ## Harmonogram
-![](images/Schedule.PNG)
+![](images/Schedule.tif)
 
 ## Status projektu
 
