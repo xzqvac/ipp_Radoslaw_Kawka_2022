@@ -8,8 +8,8 @@ być polepszenie organizacji zarządzania pieniędzmi.
 ## Założenia 
 - Przeprowadzanie transakcji w ramach budżetu
 - Historia transakcji w danym okresie
-- Kategoryzacja transakcji (Podział wydatków oraz przychodów)
-- Podgląd budżetu (Podgląd skategoryzowancyh wydatków i przychodów)
+- Kategoryzacja transakcji (podział wydatków oraz przychodów)
+- Podgląd budżetu (podgląd skategoryzowancyh wydatków i przychodów)
 - Mechanizm przypomnień
 
 ## Technologie
