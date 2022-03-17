@@ -1,3 +1,4 @@
+![](images/Background.png)
 # Personal finance manager
 
 A brief description of what this project does and who it's for
