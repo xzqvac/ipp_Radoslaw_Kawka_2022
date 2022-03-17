@@ -2,8 +2,7 @@
 # Personal finance manager
 
 ## Przeznaczenie 
-Personal finance manager pomoże śledzić Twoje wydatki oraz przychody. Aplikacja ma za zadanie przyczynić się do zwiększenia świadomości na temat stanu finansowym użytkownika. Skutem powinno
-być polepszenie organizacji zarządzania pieniędzmi.
+Personal finance manager pomoże śledzić Twoje wydatki oraz przychody. Aplikacja ma za zadanie przyczynić się do zwiększenia świadomości na temat stanu finansowego użytkownika. Skutem powinno być polepszenie organizacji zarządzania pieniędzmi.
 
 ## Założenia 
 - Przeprowadzanie transakcji w ramach budżetu
@@ -23,7 +22,7 @@ Frontend:
 - JavaFX, CSS
 
 ## Harmonogram
-
+![](images/Schedule.PNG)
 
 ## Status projektu
 
