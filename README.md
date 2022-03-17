@@ -21,6 +21,9 @@ Backend:
 Frontend:
 - JavaFX, CSS
 
+## Planowany wygląd
+Wizualizacja oraz poglądowe zdjęcia aplikacji znajduje się w folderze images. Są to jedynie inspiracje do stworzenia własnej szaty graficznej. 
+
 ## Harmonogram
 ![](images/Schedule.jpg)
 
